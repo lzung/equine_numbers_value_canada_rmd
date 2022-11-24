@@ -1,7 +1,15 @@
 ---
 title: "Historical horse population in Canada"
 bibliography: references.bib
-output: github_document
+output:
+  html_document:
+    toc: yes
+    toc_depth: '4'
+    df_print: paged
+  github_document:
+    toc: yes
+    toc_depth: '4'
+    df_print: paged
 params:
   province: "British Columbia"
 ---

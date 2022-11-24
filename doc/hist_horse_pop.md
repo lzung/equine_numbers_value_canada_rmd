@@ -1,6 +1,12 @@
 Historical horse population in Canada
 ================
 
+-   <a href="#aim" id="toc-aim">Aim</a>
+-   <a href="#data" id="toc-data">Data</a>
+-   <a href="#methods" id="toc-methods">Methods</a>
+-   <a href="#results" id="toc-results">Results</a>
+-   <a href="#references" id="toc-references">References</a>
+
 ## Aim
 
 This project explores the historical population of horses in Canada
